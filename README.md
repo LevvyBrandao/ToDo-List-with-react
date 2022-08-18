@@ -9,6 +9,6 @@
 
 <ul>
   <li>
-    <a href="[https://fabulous-salmiakki-590c26.netlify.app/](https://ephemeral-rabanadas-e6d680.netlify.app/)">Todo List</a>
+    <a href="https://fabulous-salmiakki-590c26.netlify.app/](https://ephemeral-rabanadas-e6d680.netlify.app">Todo List</a>
   </li>
 </ul>
